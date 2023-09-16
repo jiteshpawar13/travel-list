@@ -139,5 +139,9 @@ input[type="checkbox"] {
     align-items: center;
     justify-content: center;
   }
+
+  .add-form > h3 {
+    width: 100%;
+  }
   
 }
