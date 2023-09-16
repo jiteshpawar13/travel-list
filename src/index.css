@@ -131,3 +131,11 @@ input[type="checkbox"] {
   font-weight: 700;
   padding: 3.2rem 0;
 }
+
+@media screen and (max-width: 414px) {
+  .add-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+}
